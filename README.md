@@ -27,17 +27,17 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone git@github.com:this-is-you/F23-Python-Foundation.git
+git clone git@github.com:this-is-you/S24-Python-Foundation.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the F23-Python-Foundation repository on Github to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the S24-Python-Foundation repository on Github to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd F23-Python-Foundation
+cd S24-Python-Foundation
 ```
 
 Now create a branch using the `git switch` command:
