@@ -5,4 +5,5 @@
 - [Milica Gareski](https://github.com/milicagareski)
 - [Mohamed Ashik](https://github.com/ashik12102)
 - [Parvin Mirzaei](https://github.com/ParwinMirzaei/ParwinMirzaei)
+- [Mariia Stepura](https://github.com/crosssroadsss)
 - [Keviindran Ramachandran](https://github.com/keviinx)
