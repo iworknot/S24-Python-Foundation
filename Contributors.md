@@ -7,6 +7,8 @@
 - [Paul Kwame Yahya](https://github.com/pkyahya)
 - [Raheleh Soltani](https://github.com/RahelehSoltani)
 - [Mohamed Ashik](https://github.com/ashik12102)
+- Nanyu Chen
 - [Parvin Mirzaei](https://github.com/ParwinMirzaei/ParwinMirzaei)
 - [Mariia Stepura](https://github.com/crosssroadsss)
 - [Keviindran Ramachandran](https://github.com/keviinx)
+
