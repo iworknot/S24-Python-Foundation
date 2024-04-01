@@ -4,6 +4,7 @@
 - [Matheus Zago](https://github.com/mjzago/)
 - [Milica Gareski](https://github.com/milicagareski)
 - [Mohamed Ashik](https://github.com/ashik12102)
+- Nanyu Chen
 - [Parvin Mirzaei](https://github.com/ParwinMirzaei/ParwinMirzaei)
 - [Keviindran Ramachandran](https://github.com/keviinx)
-- Nanyu Chen
+
