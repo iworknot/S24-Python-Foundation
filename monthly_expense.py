@@ -6,6 +6,20 @@ The git will be used as a "database". For example, we will update the salary, ta
 and save it in the same file.
 After each function execution, manually update the value in file, commit and push to github.
 
+Step by step:
+1) Clone git repo. Make sure the main branch is up-to-date
+2) Create new branch
+    git checkout -b new-branch-name
+3) Implement functions or make changes to the file
+4) Stage files to be commited
+    git add monthly_expense.py
+5) Commit changes
+    git commit -m "message"
+6) Push changes
+    git push origin -u new-branch-name (only for first time)
+    git push origin new-branch-name (for every other time on the same branch)
+
+
 Future improvement:
 1) Use classes and objects. How the globle variable will be used in the class?
 2) Once we learn file i/o or some api or database, we will replace the manual steps
@@ -36,7 +50,7 @@ def salary_arrived():
     print("bank balance: ", bank_balance)
 
 
-salary_arrived()
+# salary_arrived()
 
 
 # write a function to add bonus to the bank balance. take the ammount from user. can you think of any edge case?
@@ -46,7 +60,7 @@ def add_bonus():
     print("bank balance after bonus: ", bank_balance)
 
 
-# add_bonus()
+add_bonus()
 
 
 # write a function to add expenses. ask user for each type of expense and update bank balance
