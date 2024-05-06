@@ -28,8 +28,10 @@ def salary_arrived():
     # your code here
 
     global bank_balance
+    global salary_drawn_count
     if today == 1:
         bank_balance += salary
+        salary_drawn_count += 1
 
     print("bank balance: ", bank_balance)
 
